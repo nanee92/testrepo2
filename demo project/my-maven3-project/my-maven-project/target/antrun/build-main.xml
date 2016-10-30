@@ -1,0 +1,7 @@
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+ <echo message="hello ant Maven!"/>
+ <echo>Maybe this will work?</echo>
+</target>
+
+</project>
