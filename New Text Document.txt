@@ -1,3 +1,8 @@
 i made this document to revise git
 thank you
+<<<<<<< HEAD
  hello me again
+=======
+ hello
+
+>>>>>>> first
